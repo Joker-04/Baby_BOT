@@ -207,8 +207,8 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
-     @Joker_offical0
-<b> Size ⚙️: {file_size}</b>""" 
+
+<b> Size ⚙️: {file_size}</b>""" <b>Join Now [ Joker Movies ](https://t.me/Joker_offical0) </b> 
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
