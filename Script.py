@@ -206,9 +206,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b> {file_name}
-<a href='https://t.me/Joker_offical0'>[Joker Movies]</a>
-<b> Size ⚙️: {file_size}</b>"""  
+    CAPTION = """ 📂 <i><a href="https://t.me/Joker_offical0">{file_name}</a></i>\n\n"""
+
+
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
