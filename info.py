@@ -88,7 +88,7 @@ MELCOW_NEW_USERS = is_enabled((environ.get('MELCOW_NEW_USERS', "True")), True)
 PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
-USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
+USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
 
 # Shortlink Info
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'api.shareus.io')
